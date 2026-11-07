@@ -1,0 +1,16 @@
+﻿# --- Données perso : ne jamais publier ---
+# Résultats d'audit, mesures et journaux (noms d'applis, chemins, dates de boot...)
+reports/
+baseline/
+logs/
+*.log
+*.csv
+*.reg
+# Surcharges locales de configuration (services, chemins propres à ce PC)
+config/*.local.json
+
+# --- Divers ---
+Thumbs.db
+desktop.ini
+.vscode/
+.claude/

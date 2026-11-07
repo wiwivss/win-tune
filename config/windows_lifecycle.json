@@ -1,0 +1,15 @@
+﻿{
+  "_commentaire": "Fin de support des versions de Windows 11 Famille/Pro. Recopié à la main depuis la source et à revérifier à chaque nouvelle version : l'audit ne va pas sur Internet.",
+  "source": "https://learn.microsoft.com/fr-fr/lifecycle/products/windows-11-home-and-pro",
+  "verifieLe": "2026-11-07",
+  "editions": "Home, Pro, Pro Education, Pro for Workstations",
+  "versions": [
+    { "version": "26H2", "debut": "2026-09-29", "fin": "2028-10-10" },
+    { "version": "26H1", "debut": "2026-02-10", "fin": "2028-03-15" },
+    { "version": "25H2", "debut": "2025-09-30", "fin": "2027-10-13" },
+    { "version": "24H2", "debut": "2024-10-01", "fin": "2026-10-14" },
+    { "version": "23H2", "debut": "2023-10-31", "fin": "2025-11-12" },
+    { "version": "22H2", "debut": "2022-09-20", "fin": "2024-10-09" },
+    { "version": "21H2", "debut": "2021-10-04", "fin": "2023-10-11" }
+  ]
+}
